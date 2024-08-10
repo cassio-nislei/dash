@@ -1,4 +1,4 @@
-var baseUrl = "http://149.56.250.246/";
+var baseUrl = "http://149.56.250.246:7080/dashboard/";
 
 
 
